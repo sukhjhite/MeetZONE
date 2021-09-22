@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286723781477",
+    "project_id": "meetzone-e1c3f",
+    "storage_bucket": "meetzone-e1c3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286723781477:android:1b9077e51ac73011d4278c",
+        "android_client_info": {
+          "package_name": "com.sukhdeep75.meetzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286723781477-ivs9goldnpr2nceo13377s0ntqbjr9lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDugJKq5Y2p4gzuBUiQ7_2my_SUP68ZhvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286723781477-ivs9goldnpr2nceo13377s0ntqbjr9lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
